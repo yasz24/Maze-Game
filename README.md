@@ -1,4 +1,6 @@
 # Maze-Game
+You need to add the library "javalib(1).jar", to be able to play this game.
+********
 This project is the maze game. 
 The objective is to create a new random maze every time you run the program. 
 The player can try to solve the game manually or use a search algorithm to solve it for them.
